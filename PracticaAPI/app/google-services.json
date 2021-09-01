@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "86376992271",
+    "project_id": "dolarcotizacion-8c3d1",
+    "storage_bucket": "dolarcotizacion-8c3d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86376992271:android:02057528b136f86ca35d7a",
+        "android_client_info": {
+          "package_name": "com.neo.practicaapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86376992271-a26v44ptramhife1jo0b28tra1o7jlje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUMJZIhGnm8yV8y1ftGUgkXRmVgDLB1u8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86376992271-a26v44ptramhife1jo0b28tra1o7jlje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
